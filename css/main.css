@@ -14,6 +14,14 @@ body {
 	z-index: 1;
 }
 
+.targeted {
+	/*background-image: url('../images/target.jpg');*/
+	width: 200px;
+	height: 300px;
+	float: right;
+	margin-top: 100px;
+}
+
 .ryu {
 	width: 659px;
 	height: 494px;
@@ -63,5 +71,6 @@ body {
 	z-index: 10;
 	margin-top: 175px;
 	margin-left: 200px;
+	left: 380px;
 
 }
